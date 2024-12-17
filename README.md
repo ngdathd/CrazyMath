@@ -17,8 +17,8 @@
 
 - Ứng dụng **TinhNhanh** có ngôn ngữ lập trình là `Android - Java`. Tôi code cơ bản và dễ hiểu, phù hợp với ai mới học. Tôi cũng đã cập nhật, bạn chỉ cần tải về và chạy.
 - Ứng dụng **TinhNhanh** có cách chơi đơn giản như sau: 
-  - Bấm dấu (v) nếu phép tính đúng.
-  - Bấm dấu (x) nếu phép tính sai.
+  - Bấm dấu ✅ nếu phép tính đúng.
+  - Bấm dấu ❌ nếu phép tính sai.
 
 
 #### Màn hình
